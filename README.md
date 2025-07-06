@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Angular, JavaScript and AWS**
 
+- 💬 Ask me about **Java, Spring Boot and Angular**
+
 - 📫 How to reach me **harshavardhanpatnana2000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
