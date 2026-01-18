@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Vardhan Patnana</h1>
-<h3 align="center">I'm a passionate Java Developer with 2 years of experience building robust and scalable applications using Java, Spring Boot, JSF(Oracle ADF). I love writing clean, maintainable code and building solutions that make a real impact.</h3>
+<h3 align="center">I'm a passionate Java Developer with 2 years of experience building robust and scalable applications using Java, Spring Boot. I love writing clean, maintainable code and building solutions that make a real impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshavardhan1010&label=Profile%20views&color=0e75b6&style=flat" alt="harshavardhan1010" /> </p>
 
